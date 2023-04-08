@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "polar-reef-373915",
+  "private_key_id": "b839e95833eead978f09e7f79cb179c9deace443",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCQx95tW/15n01J\nTzE2ZBrE+nYn6IMOPB5uc82oNhCBbZQxd92zrN7+IXy0i2PcYcKr0oazy7EkmCML\nHIiXzf6eNMZg/i7CPm1OzlGzhjO9SPWWsFa9EDFQUxLRa41+ZDsMVyI8NJCSq0Ji\n5AWWf/PXfjZOPPKRGSoiTtUiMHFb8l0FKESH+h+UFeYItTCIh95CDYUEdmuaZqQJ\ncQJPOzwY6L+Z7Ds2N8WwVS59OL2/jQwpDKfuTatGfHJtL9+SkuLsA2hZag6Kt50K\nzzcmYdFNNBDRu9HxyHxeCUrFnDvdVB9UAe/UN+aKxDVE1p5SPF9zGZG4717Fha+C\nAn4EzS8TAgMBAAECggEAFSvdB1Hl4ZSdeSRm9mSyE27qu1BBZeH9szok7z2ksUCE\nZK16Eo2reC8ObNpbSn1TOcwJ3Z3iNA85RKUyBjzdyGXAQqu4y7fURStfgCiWRU43\nd4cmz/PfujbDsDMRmFNw3Q+a1oH7SC9aAFsGxCjG0BLJPyyjbftnkWfEvACoewDg\nHk+idC/3OvH7qyGvB/ymfHBhKPYGMBUXFU2YlMBrNjvj7Bj+fRY68Lna90hRuLfq\n7aCynDbTJBm3CZes1VPxg/V1212aDbwd5PBAj5xghVaIZDw14sNq1bTA2L9nmASQ\nKUZTtJ/Km9AJ2MmeknPCeEmak5wXhtHb7S2CK54MyQKBgQDK6DbarK1/qcUx4AEx\nAANwtgSBSusvF07HsbGU8JV99rcslcRzhJbSnxyhE4rSVoqsSSG8Hf0JdSmpVLk3\nnw8AIRw8QVkrzhsryA8FfklRrELBGBSvSm2MybW9o5HELtz3r0/1g3M38by71bW6\n5ylrRQ/Vid9GlyhUhFcCX4E72QKBgQC2qgujX6K1Saj8XCs5tW39dWnKpO4ivrVQ\nRzijflQcK8609HNcafrPU7bHDgwwKthrIgBPwt3uobZJRIUtI9uIuGsmkbPqKs8t\n9PkhwMDIxnxYIew1+yGRZqHUw0IIrfC7fQpsdav64thxTgTltrBAwAwJN5s8lFD3\nswKLGHZKywKBgAwglu649WG09ulFNy0DkDETX++OV8InxXigAToiqvytW0NZ7DTv\nTshl5CModNqfe4hSkqaYsD/5dbT+MFfHtPDQCcz8JuU8W1lhiqxMYPt1rUO3Ob1E\nWInaoHcmKJcuKdzP6JqG8cL9OseLPWJfYJVdulWL+QFSFYH/quekZ6f5AoGBAJj5\nndeLjzMt5iS6d8TTqbKbcyavq3NTrXr2untJn90b3vfyxO3/H3okTK01mYV5TFek\nWQhzVPO1YHjJtpKQNhmxAKODYF5azblaMI5Q4+MBPz974Vtv3rPrdNo/T/z+1t3d\noS4l+gqZkdSKF1XeAouniizp8crxF0HqG9YrfV2zAoGAM6XsJ6KoO8cCCoKVkFDJ\nyvzUTDBmkMwjsmoPscAffOH+YkuLaHXXz3EpXT7Ms86LSW7aLupFaWE5KcPk5fUw\nzHNp4JsYVpt+V2TrJe0/T3VVyKXuGiH1rgrMLigLiONhC2+o0iN9dSS7kwrdyTvh\nQuVmYf2qnNdUbkULIoI0a7c=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-0i1u5yf2v8u0qm-7w8n8vqjf6p@polar-reef-373915.iam.gserviceaccount.com",
+  "client_id": "111832150777817370203",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-0i1u5yf2v8u0qm-7w8n8vqjf6p%40polar-reef-373915.iam.gserviceaccount.com"
+}
